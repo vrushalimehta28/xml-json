@@ -1,0 +1,15 @@
+<?xml-stylesheet type = "text/xsl" href="WebService.xsl"?>
+<class>
+	<RESTInterface>
+		<method>authenticateUser</method>
+		<parameters>account:String,password:String,url:URL</parameters>
+		<return>boolean</return>
+		<number_of_exception>2</number_of_exception>
+	</RESTInterface>
+	<RESTInterface>
+		<method>deleteUser</method>
+		<parameters>user:String</parameters>
+		<return>void</return>
+		<number_of_exception>0</number_of_exception>
+	</RESTInterface>
+</class>
