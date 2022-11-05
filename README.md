@@ -1,5 +1,5 @@
 # xml-json
 
-**Required Extensions**
-Liveserver
-frontend related basic extensions
+**Required Extensions** /n
+Liveserver /n
+frontend related basic extensions /n
